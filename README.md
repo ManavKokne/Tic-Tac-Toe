@@ -2,4 +2,7 @@
 
 <p>Implemented using html, css and js</p>
 <br>  
-<p><a href="https://manavkokne.github.io/Tic-Tac-Toe/"><h4>Live Link</h4></a></p> 
+<p><h4>Live Link : </h4>
+<br>
+https://manavkokne.github.io/Tic-Tac-Toe/
+</p> 
